@@ -15,7 +15,7 @@ I enjoy building practical cybersecuirty projects that demonstrate real-world sk
 ## Projects
 | Projects | Description | Repository |
 |----------|-------------|------------|
-| OSINT Investigation | Conducted an OSINT investigation on a target organisation | Coming soon |
+| OSINT Investigation | Conducted an OSINT investigation on a target organisation | https://github.com/oechetachukwu/osinti-project |
 | Log Analysis | Analysed IIS and Windows Event Logs to identify attacks | Coming soon |
 
 ## Skills
